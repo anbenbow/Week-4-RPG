@@ -2,7 +2,7 @@ hero = {
     'name': 'Sleeping Beauty',
     'level': 7,
     'health': 100,
-    'equipment': {'pajamas', 'sleep mask', 'travel pillow'},
+    'equipment': {'Pajamas', 'Sleep Mask', 'Travel Pillow'},
     'attacks': (('Weighted Blanket', 95),('Lavender Diffuser', 75),('White Noise', 50),('Chamomile Tea', 25)),
     'coins': {
         'copper': 700,
